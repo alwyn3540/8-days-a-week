@@ -79,7 +79,7 @@ class TimeLine extends Component {
                         iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}>
                         <h3 className="vertical-timeline-element-title">Saturday</h3>
 
-                        <p>"Life doesn’t always present you with the perfect opportunity at the perfect time. Opportunities come when you least expect them, or when you’re not ready for them. Rarely are opportunities presented to you in the perfect way, in a nice little box with a yellow bow on top. … Opportunities, the good ones, they’re messy and confusing and hard to recognize. They’re risky. They challenge you.”</p>
+                        <p>"Life doesn’t always present you with the perfect opportunity at the perfect time...Rarely are opportunities presented to you in the perfect way, in a nice little box with a yellow bow on top. … Opportunities, the good ones, they’re messy and confusing and hard to recognize. They’re risky. They challenge you.”</p>
                         <h6>Susan Wojcicki : CEO YouTube</h6>
                         <Link to="/details" component={Details}>
 
